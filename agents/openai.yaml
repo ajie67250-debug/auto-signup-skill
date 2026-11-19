@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Signup"
+  short_description: "用固定身份资料自主完成网站/平台注册，自动读取邮箱验证码"
+  default_prompt: "用 $auto-signup 帮我在 <平台名> 注册账号"
